@@ -36,4 +36,14 @@ Computer Science Engineering graduate and aspiring Data Analyst with skills in S
 
 LinkedIn: linkedin.com/in/mahijadhav
 GitHub: github.com/mahie06
+## Dashboard Screenshots
+
+### Job Market Analytics Dashboard
+
+![Job Market Dashboard](JobMarketDashboard.png)
+
+### Student Performance Analytics Dashboard
+
+![Student Performance Dashboard](StudentPerformace.png)
+
 
